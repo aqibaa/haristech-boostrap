@@ -1,0 +1,25 @@
+.llo{
+    margin-top: 5px;
+    height: 570px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 25px;
+    opacity: 0.59;
+}
+.navbar{
+    border-radius: 18px;
+}
+hr{
+    color: gray;
+    height: 1px;
+}
+footer{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+}
+#op{
+   margin-top: 20px;
+}
